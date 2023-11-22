@@ -7,3 +7,9 @@ To run, use:
 `cargo run -- filename.txt value`
 
 The input file is assumed to reside in the src/ folder. It is also there that the output file is created.
+
+# NAC
+
+Stands for noughts and crosses.
+
+Takes console input to register where the two players want to place their X's or O's on a table.
